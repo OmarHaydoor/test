@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8286c62-a821-4741-b14a-3a5aeafb91f2" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\جلال\Desktop\git-rep\test\1.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/omar.html" afterPath="$PROJECT_DIR$/omar.html" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,28 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="8" selection-start="30" selection-end="30" vertical-scroll-proportion="0.11148649" vertical-offset="0" max-vertical-offset="592">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="samer.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/samer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="9" selection-start="15" selection-end="15" vertical-scroll-proportion="-0.7096774" vertical-offset="0" max-vertical-offset="198">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="omar.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="omar.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/omar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="8" selection-start="14" selection-end="14" vertical-scroll-proportion="-0.7096774" vertical-offset="0" max-vertical-offset="198">
+            <state line="1" column="17" selection-start="23" selection-end="23" vertical-scroll-proportion="0.037162162" vertical-offset="0" max-vertical-offset="592">
               <folding />
             </state>
           </provider>
@@ -72,8 +53,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/samer.html" />
-        <option value="$PROJECT_DIR$/omar.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/omar.html" />
       </list>
     </option>
   </component>
@@ -241,21 +222,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/samer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="9" selection-start="15" selection-end="15" vertical-scroll-proportion="-0.7096774" vertical-offset="0" max-vertical-offset="198">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/omar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="8" selection-start="14" selection-end="14" vertical-scroll-proportion="-0.7096774" vertical-offset="0" max-vertical-offset="198">
+        <state line="1" column="9" selection-start="15" selection-end="15" vertical-scroll-proportion="0.037162162" vertical-offset="0" max-vertical-offset="592">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="8" selection-start="30" selection-end="30" vertical-scroll-proportion="0.11148649" vertical-offset="0" max-vertical-offset="592">
+        <state line="3" column="8" selection-start="30" selection-end="30" vertical-scroll-proportion="-2.1290324" vertical-offset="0" max-vertical-offset="264">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="17" selection-start="23" selection-end="23" vertical-scroll-proportion="0.037162162" vertical-offset="0" max-vertical-offset="592">
           <folding />
         </state>
       </provider>
